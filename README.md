@@ -1,2 +1,5 @@
-# petl_examples
-some examples on how to use petl library
+# python ETL Examples
+
+Some examples on how to use ETL with the petl library and pandas.
+
+

@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "name": "Hawk",
+      "age": 5,
+      "max_speed": 150
+    },
+    {
+      "name": "Cat",
+      "age": 1,
+      "max_speed": 6
+    }
+  ],
+  "meta": {
+    "next_file": "",
+    "next_page": "rtew3456"
+  }
+}

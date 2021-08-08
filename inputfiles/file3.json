@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "name": "Lion",
+      "age": 12,
+      "max_speed": 25
+    },
+    {
+      "name": "Sparrow",
+      "age": 1,
+      "max_speed": 65
+    },
+    {
+      "name": "Snake",
+      "age": 2,
+      "max_speed": 12
+    }
+  ],
+  "meta": {
+    "next_file": "",
+    "next_page": ""
+  }
+}
